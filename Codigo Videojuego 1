@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-CAMBIO 3 GITHUB
+CAMBIO 3 GITHUB 4
 public class PlayerController (titulo del archivo han de coincidir) : MonoBehaviour
 {
     public float velocidad; si no existe no permite movimiento de personaje
