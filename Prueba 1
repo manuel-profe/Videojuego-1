@@ -1,0 +1,10 @@
+Actividad 2
+1.       Instalar Git, GitHub y Visual Studio.
+2.       Crear un Repositorio.
+3.       Crear 3 ramas:
+           	1. Master
+           	2. Desarrolladores
+3. Programadores.
+4.      Realizar cambios en el código C# a través de Visual Studio y realizar un Commit poniendo un título y descripción del nuevo cambio. Comprobar que se ha guardado a través del Historial y hacer un Push.
+5.       Acceder a otra rama y realizar un Fetch para comprobar si hay cambios en el repositorio remoto. Y hacer un Pull para actualizar nuestro repositorio local.
+6.       Resolver conflictos entre dos archivos e indicar cuales son las posibles elecciones para solucionarlo.
