@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+CAMBIO 2 GITHUB
 public class PlayerController (titulo del archivo han de coincidir) : MonoBehaviour
 {
     public float velocidad; si no existe no permite movimiento de personaje
@@ -31,3 +32,4 @@ private bool miraDerecha = true;
         h = Input.GetAxisRaw("Horizontal");
             rPlayer.AddForce(Vector2.right * velocidad * h);
     }
+git remoto agregar origen https://github.com/manuel-profe/Videojuego-1.git
